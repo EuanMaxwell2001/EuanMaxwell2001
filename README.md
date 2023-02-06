@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Euan</h1>
-<h3 align="center">A frontend developer from Edinburgh, Scotland</h3>
+<h3 align="center">A frontend developer and UI Designer from Edinburgh, Scotland</h3>
 
 - 🌱 I’m currently learning **Python/Flask and REACT**
 
