@@ -1,14 +1,66 @@
-<h1 align="center">Hi 👋, I'm Euan</h1>
-<h3 align="center">A frontend developer and UI Designer from Edinburgh, Scotland</h3>
-
-- 🌱 I’m currently learning **Python/Flask and REACT**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/euan-maxwell-63782318b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/euan-maxwell-63782318b/" height="30" width="40" /></a>
-<a href="https://instagram.com/euanmaxwelldesign" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="euanmaxwelldesign" height="30" width="40" /></a>
-<a href="https://dribbble.com/emaxwell" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="emaxwell" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/hero?username=euanmaxwell2001&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F56163241%3Fu%3D28d9a253133840d9a1a02ce76b9afcf067a42e36%26v%3D4" alt="euanmaxwell2001 hero visual" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+<p align="center"><b>Euan</b> · Frontend or full-stack engineer<br/><sub>Building in public on GitHub.</sub></p>
+
+<p align="center"><a href="https://github.com/euanmaxwell2001">GitHub</a></p>
+
+<details open>
+<summary><b>📌 Top projects</b></summary>
+<br/>
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/projects?username=euanmaxwell2001&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F56163241%3Fu%3D28d9a253133840d9a1a02ce76b9afcf067a42e36%26v%3D4" alt="euanmaxwell2001 projects visual" />
+</p>
+
+- [emax-digital](https://github.com/EuanMaxwell2001/emax-digital) · ★ 0
+- [sooz-events](https://github.com/EuanMaxwell2001/sooz-events) · ★ 0
+- [office-sweepstakes](https://github.com/EuanMaxwell2001/office-sweepstakes) · ★ 0
+- [Glasgow-Subway](https://github.com/EuanMaxwell2001/Glasgow-Subway) · ★ 0
+- [calmax-holding](https://github.com/EuanMaxwell2001/calmax-holding) · ★ 0
+- [Portfolio](https://github.com/EuanMaxwell2001/Portfolio) · ★ 0
+
+</details>
+
+<details>
+<summary><b>🧰 Stack</b></summary>
+<br/>
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stack?username=euanmaxwell2001&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F56163241%3Fu%3D28d9a253133840d9a1a02ce76b9afcf067a42e36%26v%3D4" alt="euanmaxwell2001 stack visual" />
+</p>
+
+</details>
+
+<details>
+<summary><b>📊 By the numbers</b></summary>
+<br/>
+
+<b>12</b> public repositories, <b>0</b> stars, <b>17</b> contributions in the last year, a longest streak of <b>1</b> days and <b>0</b> followers.
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stats?username=euanmaxwell2001&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F56163241%3Fu%3D28d9a253133840d9a1a02ce76b9afcf067a42e36%26v%3D4" alt="euanmaxwell2001 stats visual" />
+</p>
+
+</details>
+
+<details>
+<summary><b>🟩 Activity</b></summary>
+<br/>
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/heatmap?username=euanmaxwell2001&theme=neon" alt="euanmaxwell2001 contribution activity" />
+</p>
+
+</details>
+
+<details>
+<summary><b>👋 Say hello</b></summary>
+<br/>
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=euanmaxwell2001&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F56163241%3Fu%3D28d9a253133840d9a1a02ce76b9afcf067a42e36%26v%3D4" alt="euanmaxwell2001 social visual" />
+</p>
+
+</details>
